@@ -1,0 +1,19 @@
+2026-03-28T23:39:57.338966+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:39:57.343147+0530 | INFO | Sending STOP_MARKET Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_MARKET', 'quantity': '0.008', 'stopPrice': '71000.0', 'workingType': 'MARK_PRICE'}
+2026-03-28T23:39:57.343147+0530 | INFO | Order Accepted ID: 123456
+2026-03-28T23:39:57.357941+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:39:57.359941+0530 | INFO | Sending MARKET Order: {'symbol': 'INVALID', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1.0'}
+2026-03-28T23:39:57.359941+0530 | ERROR | Binance API Error: Invalid symbol. (Code: -1121)
+2026-03-28T23:39:57.388992+0530 | INFO | Trade Finalized: BTCUSDT BUY
+2026-03-28T23:41:56.827355+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:41:56.830357+0530 | INFO | Sending STOP_MARKET Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'STOP_MARKET', 'quantity': '0.008', 'stopPrice': '71000.0', 'workingType': 'MARK_PRICE'}
+2026-03-28T23:41:56.831354+0530 | INFO | Order Accepted ID: 123456
+2026-03-28T23:41:56.847228+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:41:56.848754+0530 | INFO | Sending MARKET Order: {'symbol': 'INVALID', 'side': 'BUY', 'type': 'MARKET', 'quantity': '1.0'}
+2026-03-28T23:41:56.848754+0530 | ERROR | Binance API Error: Invalid symbol. (Code: -1121)
+2026-03-28T23:41:56.862935+0530 | INFO | Trade Finalized: BTCUSDT BUY
+2026-03-28T23:42:30.660055+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:42:30.661057+0530 | INFO | Sending MARKET Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': '0.008'}
+2026-03-28T23:42:30.925574+0530 | INFO | Order Accepted ID: 13002683962
+2026-03-28T23:42:30.927809+0530 | INFO | Trade Finalized: BTCUSDT SELL
+2026-03-28T23:42:30.928802+0530 | INFO | Disconnected from Binance
