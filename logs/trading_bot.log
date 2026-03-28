@@ -17,3 +17,18 @@
 2026-03-28T23:42:30.925574+0530 | INFO | Order Accepted ID: 13002683962
 2026-03-28T23:42:30.927809+0530 | INFO | Trade Finalized: BTCUSDT SELL
 2026-03-28T23:42:30.928802+0530 | INFO | Disconnected from Binance
+2026-03-28T23:55:49.949299+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:55:49.951298+0530 | INFO | Sending MARKET Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': '0.002'}
+2026-03-28T23:55:50.189883+0530 | INFO | Order Accepted ID: 13002706441
+2026-03-28T23:55:50.190866+0530 | INFO | Trade Finalized: BTCUSDT SELL
+2026-03-28T23:55:50.191863+0530 | INFO | Disconnected from Binance
+2026-03-28T23:56:57.737918+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:56:57.738904+0530 | INFO | Sending MARKET Order: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': '0.05'}
+2026-03-28T23:56:58.001789+0530 | INFO | Order Accepted ID: 8623224890
+2026-03-28T23:56:58.003786+0530 | INFO | Trade Finalized: ETHUSDT SELL
+2026-03-28T23:56:58.004788+0530 | INFO | Disconnected from Binance
+2026-03-28T23:57:30.188774+0530 | INFO | Connected to Binance Futures Testnet
+2026-03-28T23:57:30.189774+0530 | INFO | Sending MARKET Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': '0.002'}
+2026-03-28T23:57:30.466033+0530 | INFO | Order Accepted ID: 13002708753
+2026-03-28T23:57:30.466033+0530 | INFO | Trade Finalized: BTCUSDT SELL
+2026-03-28T23:57:30.468413+0530 | INFO | Disconnected from Binance
